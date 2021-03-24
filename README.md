@@ -8,6 +8,4 @@ Created with CodeSandbox
 
 ## A sneek peek into what we have here🙈 :
 
-<p align="center"><img src=""></p>
-
 
